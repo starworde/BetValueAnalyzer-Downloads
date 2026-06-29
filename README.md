@@ -1,0 +1,1 @@
+﻿# BetValue Analyzer downloads
