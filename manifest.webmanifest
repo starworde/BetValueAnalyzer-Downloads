@@ -1,0 +1,17 @@
+{
+  "name": "BetValue Analyzer Web",
+  "short_name": "BetValue",
+  "description": "Calendrier sportif, signaux et analyses multi-sources.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b18",
+  "theme_color": "#070b18",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
